@@ -7,3 +7,4 @@ def factorial(numero):
     else:
         return numero * factorial(numero - 1)
 print("Hello")
+print("Bye")
