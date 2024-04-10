@@ -6,3 +6,4 @@ def factorial(numero):
         return 1
     else:
         return numero * factorial(numero - 1)
+print("Hello")
